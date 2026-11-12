@@ -1,0 +1,6 @@
+{
+  "name": "Navier-Stokes Flow Studio: Laminar, Transitional & Turbulent Dynamics",
+  "description": "Advanced real-time interactive 2D Navier-Stokes fluid simulation studio exploring Poiseuille pipe flow, Kármán vortex streets, turbulence transition, and Reynolds number physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
